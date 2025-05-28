@@ -6,7 +6,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Valmir-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Valmir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
